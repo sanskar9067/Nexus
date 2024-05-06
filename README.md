@@ -10,7 +10,7 @@
   </header>
   <section id="overview">
     <h2>Overview:</h2>
-    <p>Brief introduction to the Nexus Social Media Application project, highlighting its purpose as a full-stack social media platform.</p>
+    <p>It's a comprehensive social media platform called Nexus. It includes user authentication managed through the Context API for security. The platform boasts a real-time chat feature for instant communication. Users can perform CRUD operations like creating, reading, updating, and deleting posts, as well as liking posts, adding comments, updating profiles, and uploading images using Multer. Navigation within the application is seamless thanks to React Router for single-page application functionality. Backend functionality is handled with Axios for HTTP requests in a Node.js and Express.js environment using Rest APIs. MongoDB serves as the database for efficient data storage and retrieval.</p>
   </section>
   <section id="features">
     <h2>Key Features:</h2>
@@ -75,8 +75,6 @@
     <h2>Live Link:</h2>
     <p>https://nexus-socialmedia-app.netlify.app/</p>
   </section>
-  <footer>
-    <p>Code snippets and conclusion can be added here.</p>
-  </footer>
+  
 </body>
 </html>
